@@ -25,4 +25,4 @@ Institutions which influence worker's bargaining power, such as trade unions and
 
 I am supervising a PhD studentship on the long run impacts of an annual net wealth taxation on the wealth distribution. The research goes beyond static revenue estimates of a wealth tax to model the impact an annual tax will have on the behaviour of those affected and macroeconomic outcomes. 
 
-Please get in touch if you have any questions about my research at b.m.tippet@greenwich.ac.uk. ![image](https://github.com/bentippet/bentippet.github.io/assets/65400024/b48691ad-c013-4289-85f0-8b54e6fa7a9d)
+Please get in touch if you have any questions about my research at b.m.tippet@greenwich.ac.uk.
