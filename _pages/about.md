@@ -17,7 +17,7 @@ I am principal investigator on a BA/Leverhulme funded project bulding a new data
 
 The world is currently not doing enough to mitigate climate change. This project analyses the determinants of climate mitigation and adaptation policies, with a particular focus on the inter-relationship between inequality, climate disasters and climate action. 
 
-**The macroeconomic and distributional impact of trade unions**
+**Worker's bargaining power and inequality**
 
 Institutions which influence worker's bargaining power, such as trade unions and collective bargaining agreements, shape distributional and macroeconomic outcomes. This project analyses how trade unions shape wealth inequality, unemployment and care work in global north countries. 
 
