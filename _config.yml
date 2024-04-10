@@ -21,7 +21,7 @@ repository               : "bentippet/bentippet.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "\filews\ben_pic.JPG"
+  avatar           : "ben_pic.JPG"
   name             : "Ben Tippet"
   pronouns         : #"He/Him"  
   bio              : "Lecturer in economics"
